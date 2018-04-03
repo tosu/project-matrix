@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Microsoft YaHei";
+}
+
+.wrapper {
+  width: 800px;
+  margin: 0 auto;
+  border-left: 5px solid #d6d6d6;
+  border-right: 5px solid #d6d6d6;
+  border-bottom: 5px solid #d6d6d6;
+  padding: 20px;
+}
+
+.matrix-field {
+  width: 30px;
+  height: 20px;
+  border-radius: 5px;
+  font-size: 14px;
+  border: 1px solid #d6d6d6;
+  text-align: center;
+  margin: 3px 2px;
+}
+
+.btn {
+  padding: 5px 5px;
+  border: 0;
+  border-radius: 5px;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.box {
+  margin: 10px 10px;
+}
